@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Vishal Nishad!
 
-<!--
-**vishal-8084/vishal-8084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 **AI/ML Enthusiast** | 🎓 Student | 💡 Passionate about Data & Automation
 
-Here are some ideas to get you started:
+I am an aspiring **Artificial Intelligence & Machine Learning** student, eager to explore innovative AI-driven solutions. My interests lie in **deep learning, data science, and intelligent automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do:
+- Develop AI/ML models for predictive analytics & automation.
+- Explore computer vision & NLP applications.
+- Work on IoT & AI integration for real-world use cases.
+- Constantly learning and contributing to open-source projects.
+
+### 🎯 Career Goal:
+To build impactful AI solutions that drive efficiency, innovation, and automation in various industries.
+
+## 📫 Connect with Me
+- [GitHub](https://github.com/vkn500)
+- [LinkedIn](http://www.linkedin.com/in/vishal-nishad-a5a3b826a) 
+- [Email](mailto:nishvishu337@gamil.com)   
+
+
+### 💡 Let's collaborate on exciting AI projects!
