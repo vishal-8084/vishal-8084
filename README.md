@@ -14,7 +14,7 @@ I am an aspiring **Artificial Intelligence & Machine Learning** student, eager t
 To build impactful AI solutions that drive efficiency, innovation, and automation in various industries.
 
 ## 📫 Connect with Me
-- [GitHub](https://github.com/vkn500)
+- [GitHub](https://github.com/vishal-8084)
 - [LinkedIn](http://www.linkedin.com/in/vishal-nishad-a5a3b826a) 
 - [Email](mailto:nishvishu337@gamil.com)   
 
